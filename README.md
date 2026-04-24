@@ -4,10 +4,9 @@ Una aplicación web ligera para gestionar el presupuesto semanal y controlar los
 
 ---
 
-## Demo en vivo
+## 🌐 Demo en Vivo
 
-- Visualiza el proyecto localmente abriendo `index.html` en tu navegador.
-- Si lo subes a GitHub, puedes habilitar GitHub Pages en la rama principal para tener un demo en vivo automático.
+**Visita el sitio web:** [gastoSemanal](https://gastosemanal26.netlify.app/)
 
 ---
 
@@ -66,14 +65,20 @@ Una aplicación web ligera para gestionar el presupuesto semanal y controlar los
 
 ## Autor
 
-**Javier**
+**Javier   JEB$DEV**
 
 - Proyecto creado como una herramienta sencilla para controlar el gasto semanal.
-- Listo para subir a GitHub y mostrar en un portafolio.
+
+📞 Contacto
+Para más información sobre el proyecto o servicios de desarrollo web:
+
+Desarrollador: JEB$DEV de Javier Berchtold
+Repositorios: https://github.com/JEB76-22?tab=repositories
+Correo: j.e.b.inter@gmail.com
 
 ---
 
 ## Notas adicionales
 
 - La aplicación funciona completamente en el navegador sin servidor.
-- Si quieres, puedes desplegarla con GitHub Pages o cualquier hosting estático.
+
