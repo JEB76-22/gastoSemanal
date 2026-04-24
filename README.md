@@ -83,5 +83,5 @@ Correo: j.e.b.inter@gmail.com
 - La aplicación funciona completamente en el navegador sin servidor.
 
 ⭐ Si te gusta este proyecto, ¡dale una estrella en GitHub!</content>
-<parameter name="filePath">c:\Users\javier\Desktop\Buscador\README.md
+<parameter name="filePath">
 
